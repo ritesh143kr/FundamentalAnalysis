@@ -20,7 +20,7 @@
       "Text4":"Macroeconomic Factors\n",
       "bold7":"bold",
       "bold8":"",
-      "Para4":"Market Indicators:\n1.Gross Domestic Product (GDP)\n2.Inflation rate\n3.unemployment rate\n4.interest rates\n5. consumer spending, and business investment.\n",
+      "Para4":"Market Indicators:\n\t\t1.Gross Domestic Product (GDP)\n\t\t2.Inflation rate\n\t\t3.unemployment rate\n\t\t4.interest rates\n\t\t5. consumer spending, and business investment.\n",
       "Text5":"Government Policies:\n1.Monetary policy (set by central banks)\n2.fiscal policy (set by governments)\n",
       "bold9":"",
       "bold10":"bold",
@@ -33,7 +33,7 @@
       "Text7":"Global Factors\n1.International trade\n2.foreign direct investment\n3.global events\n",
       "bold13":"",
       "bold14":"",
-      "Para7":"Political Stability"   
+      "Para7":"Political Stability\n\n"   
    }     
  ]
 }
