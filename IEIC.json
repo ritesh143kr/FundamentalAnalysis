@@ -1,6 +1,6 @@
 {
-"blogs":[
-{
+    "blogs":[
+     {
       "Id":"01",
       "Name":"Introduction & EIC Analysis",
       "Text1":"Introduction",
@@ -20,7 +20,7 @@
       "Text4":"Importance of fundamental analysis\n",
       "bold7":"bold",
       "bold8":"",
-      "Para4":"1. Understanding Intrinsic Value\n\n2. Risk Management\n\n3. Financial Health Assessment\n\n4. Economic and Market Analysis\n\n5. Building a Strong Investment Portfolio\n\n6. Investment Strategies\n\n7. Long-Term Perspective\n"
+      "Para4":"1. Understanding Intrinsic Value\n\n2. Risk Management\n\n3. Financial Health Assessment\n\n4. Economic and Market Analysis\n\n5. Building a Strong Investment Portfolio\n\n6. Investment Strategies\n\n7. Long-Term Perspective\n",
       "Text5":"Types of fundamental analysis",
       "bold9":"bold",
       "bold10":"",
