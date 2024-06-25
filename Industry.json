@@ -104,6 +104,41 @@
       "bold13":"bold",
       "bold14":"",
       "Para7":"Apart from industry life cycle analysis, investors should consider these factors:\n\nIndustry Growth: Evaluate historical growth and profitability trends published by sources like the Centre for Monitoring Indian Economy.\n\nCost Structure and Profitability: Understand how fixed and variable costs impact production costs and profitability.\n\nNature of Products: Analyze consumer and industry demand for the products produced.\n\nCompetition: Assess competitive dynamics affecting product demand, profitability, and stock prices.\n\nGovernment Policies: Evaluate how government regulations, subsidies, and taxes impact industry operations and profitability.\n\nLabor Conditions: Consider the impact of labor unions and productivity on industry efficiency, especially in sectors prone to strikes like textiles.\n\nResearch and Development: Look into industry investments in R&D to maintain competitiveness and innovation.\n\nEnvironmental Standards: Understand how industry compliance with pollution standards affects operations and public perception.\n\n\nThese factors help investors make informed decisions by considering broader industry dynamics beyond just economic cycles.\n\n\n"   
-      }    
+      },
+      {
+      "Id":"4",
+      "Name":"Methods of perfoming industry analysis",
+      "Text1":"There are several methods to perform industry analysis, including:",
+      "bold1":"bold",
+      "bold2":"",
+      "Para1":"Porter's Five Forces Analysis: Assessing the competitive intensity and attractiveness of an industry based on five key factors: rivalry among existing firms, threat of new entrants, threat of substitutes, bargaining power of buyers, and bargaining power of suppliers.",
+      "Image1":"",
+      "Text2":"SWOT Analysis: Evaluating the strengths, weaknesses, opportunities, and threats facing the industry, including internal and external factors.",
+      "bold3":"",
+      "bold4":"",
+      "Para2":"PESTEL Analysis: Examining the political, economic, social, technological, environmental, and legal factors influencing the industry.",
+      "Text3":"Industry Life Cycle Analysis: Understanding the stages an industry goes through from inception to decline, and how this affects profitability and strategy.",
+      "bold5":"",
+      "bold6":"",
+      "Para3":"Financial Ratio Analysis: Analyzing financial metrics like profitability ratios, liquidity ratios, and efficiency ratios to gauge the financial health and performance of industry participants.",
+      "Image3":"",
+      "Text4":"Market Research and Trends Analysis: Studying market trends, consumer behavior, and emerging technologies or innovations impacting the industry.",
+      "bold7":"",
+      "bold8":"",
+      "Para4":"",
+      "Text5":"",
+      "bold9":"",
+      "bold10":"",
+      "Para5":"Benchmarking: Comparing industry performance metrics against competitors or industry standards to identify strengths and weaknesses.",
+      "Image5":"",
+      "Text6":"",
+      "bold11":"",
+      "bold12":"",
+      "Para6":"Value Chain Analysis: Analyzing the activities within an industry's value chain to understand cost structures, differentiation strategies, and competitive advantages.\n\n",
+      "Text7":"We will discuss main three methods like Porter's Five Forces Analysis, SWOT Analysis, PESTEL Analysis in upcoming slides.\n\n",
+      "bold13":"",
+      "bold14":"",
+      "Para7":""   
+      }     
     ]
 }
